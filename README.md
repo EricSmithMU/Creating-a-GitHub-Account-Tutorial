@@ -1,11 +1,12 @@
 # Intro to Git and GitHub
 By: Eric Smith
+
 This tutorial will help new incoming freshman in college become familar with GitHub. This is a very simple tutorial with only a few steps. It will help get freshman on their feet in a new environment of learning and coding.
 
 # What is Git
 
 Git is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files. As a distributed revision control system it is aimed at speed, data integrity, and support for distributed, non-linear workflows.
-…every Git directory on every computer is a full-fledged repository with complete history and full version tracking abilities, independent of network access or a central server.[Git(Wikipedia)](https://en.wikipedia.org/wiki/Git)
+…every Git directory on every computer is a full-fledged repository with complete history and full version tracking abilities, independent of network access or a central server. [Git(Wikipedia)](https://en.wikipedia.org/wiki/Git)
 
 # Editing basics
 
