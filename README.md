@@ -34,8 +34,8 @@ If you are already a Git/GitHub user, great! Keep working to refine your Git and
 
 If you are learning to use Git and GitHub:
 
-Don’t avoid learning how to use Git and GitHub. It may seem confusing or difficult at the start, but once you gain some experience it will make sense and you will wonder how you ever worked without it or why it seemed difficult at first.
-The only real way to learn is by doing! Experience/practice makes things understandable. Don’t avoid using Git/GitHub or attempt to not use them and then create a repository just to submit your work. Embrace the fact that you need to learn how to use them. You will be better off with all of your development work once you use version control and VCS hosting.
-Don’t avoid learning how to use Git/GitHub on the command line. There are things you can’t do and problems you can’t solve using only the GUI in an IDE.
-Don’t wait for a large, collaborative project before learning how to use Git and GitHub.
-Git/GitHub is useful for managing files for projects other than software development projects.
+  - Don’t avoid learning how to use Git and GitHub. It may seem confusing or difficult at the start, but once you gain some experience it will make sense and you     will wonder how you ever worked without it or why it seemed difficult at first.
+  - The only real way to learn is by doing! Experience/practice makes things understandable. Don’t avoid using Git/GitHub or attempt to not use them and then         create a repository just to submit your work. Embrace the fact that you need to learn how to use them. You will be better off with all of your development       work once you use version control and VCS hosting.
+  - Don’t avoid learning how to use Git/GitHub on the command line. There are things you can’t do and problems you can’t solve using only the GUI in an IDE.
+  - Don’t wait for a large, collaborative project before learning how to use Git and GitHub.
+  - Git/GitHub is useful for managing files for projects other than software development projects.
